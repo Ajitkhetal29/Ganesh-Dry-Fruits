@@ -1,0 +1,154 @@
+h2{
+    font-family: italic;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mena{
+    background-color:#badd4a;
+}
+.mena ul li a{
+    font-size: 18.5px;
+    color: #000;
+    text-decoration: underline black 1px;
+}
+
+.clientlogo{
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.clientlogo div{
+    text-align:center;
+}
+.clientlogo div img{
+    width: 75%;
+    transition: transform .2s;
+}
+.clientlogo div img:hover{
+    transform: scale(1.5);
+}
+.abouts{
+    padding-top:50px;
+    padding-bottom: 25px;
+    background-color: #badd4a;
+}
+.abouts div h2{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: underline double 1.5px black;
+    font-size: 35px;
+}
+
+.about img{
+    width: 100%;   
+    height: auto;
+}
+.about p{
+    text-align: justify;
+    font-size: 18px;
+}
+
+.productss{
+    padding-top:50px;
+    padding-bottom: 25px;
+}
+.products{
+    padding-top: 15px;
+    padding-bottom: 35px;
+    text-decoration: underline double 1.5px black;
+    font-size: 35px;
+}
+.like {
+    font-size: 1.5rem;
+  }
+.cont i{    
+        float: left;
+        font-size: 35px;       
+        color: #badd4a;
+}  
+.conts{
+    padding-left: 60px;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.contacts{
+    padding-top: 15px;
+    padding-bottom: 35px;
+    text-decoration: underline double 1.5px black;
+    font-size: 35px;
+}
+.contactts{
+    padding-top:50px;
+    padding-bottom: 25px;
+}
+.coninp{
+    padding-bottom: 15px;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0 0 0 / 0.7);
+}
+.backim{
+    background-image: url(images/con2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.contex{
+    color: #fff;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.contse{
+    background-color: #badd4a;
+}
+.foote{
+    list-style-type: none;
+}
+
+.foote a{
+    color: black;
+}
+.footer{
+    padding-top:50px;
+    padding-bottom: 25px;
+}
+.footers{
+background-color: #badd4a;
+text-align: center;
+color: #fff;
+font-size: 20px;
+}
+
+.abouthea{
+    background-image: url(images/banner2.jpg);
+   background-size: cover;   
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    
+}
+.abcd{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    list-style-type: none;   
+}
+.abcd li {
+    display: inline-block;    
+}
+.abcd li a {
+    color: #000;
+    font-size: 25px;
+}
+.abcd li i{
+    color: #000;
+    font-size: 20px;
+}
